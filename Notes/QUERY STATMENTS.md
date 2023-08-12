@@ -1,0 +1,29 @@
+
+- SELECT:
+- FROM:
+- ALTER TABLE
+- MODIFY:
+- ADD:
+- CREATE LOGIN:
+- INSERT INTO:
+- WHERE:
+- GROUP BY:
+- HAVING:
+- ORDER BY:
+- AND:
+- OR:
+- NOT:
+- BETWEEN:
+- LIKE:
+- IN:
+- DITINCT:
+- AS:
+- DROP:
+- VIEW:
+- CREATE VIEW:
+- INDEX:
+- PROCEDURE:
+- GO:
+- IDENTITY:
+- IF:
+- 
