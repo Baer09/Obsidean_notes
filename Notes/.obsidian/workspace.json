@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QUERY STATMENTS.md",
+                "file": "PENDING DATA.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,14 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f2eb05936499a45",
+  "active": "d675280e6e584266",
   "lastOpenFiles": [
+    "Untitled",
+    "TOPICS.md",
     "QUERY STATMENTS.md",
     "PENDING DATA.md",
-    "TOPICS.md",
-    "DCL.md",
     "DML.md",
     "DDL.md",
+    "DCL.md",
     "SQL_SERVER"
   ]
 }
